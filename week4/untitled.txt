@@ -1,0 +1,9 @@
+create array of daily biking amounts 
+
+take as imp
+
+Def make a cumlititive array():
+    counter = 0 
+    numrest days = 0 
+    while counter < 35:
+        
