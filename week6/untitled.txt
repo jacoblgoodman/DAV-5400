@@ -1,0 +1,16 @@
+
+1. What proportion of diamonds are between .30 and 1.08 carats?
+2. How mab bny of the diamonds have equal x and y dimensions?
+3. How many of the diamonds have a carat less than the mean carat value?
+4. How many diamonds have a Premium cut or better? Note that the possible values for the quality of a cut are
+ranked in ascending order as follows: Fair / Good / Very Good / Premium / Ideal
+5. Which diamond has the highest price per carat? What is its value?
+6. Make a bar plot of the ‘cut’ data. What does it tell us about the frequencies of the individual cut values within
+the data set?
+7. Make boxplots of the diamond price for each cut and discuss any conclusions you can draw from the appearance
+of the boxplots.
+8. Make histograms of the length, width, depth, and total depth attributes and discuss any conclusions you can
+draw from the shape of the resulting distributions.
+9. Make a scatter plot of price vs. carat. What can we say about the relationship between those two attributes?
+
+
