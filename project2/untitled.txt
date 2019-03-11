@@ -1,0 +1,17 @@
+[x]invoice_line_no
+[x]date
+[x]name 
+[x]city
+[x]county
+
+
+6. **zipcode**:
+7. **itemno**: 
+8. **im_desc**: 
+9. **vendor_name**: 
+10. **category_name**: 
+11. **bottle_volume_ml** :
+12. **pack**
+13. **sale_bottles**:
+14. **state_bottle_cost**: 
+15. **state_bottle_retail**: 
